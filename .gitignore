@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+gtFine_trainvaltest/
+leftImg8bit_trainvaltest/
